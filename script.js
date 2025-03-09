@@ -1,5 +1,5 @@
 const student = {
-	name : "Tanu";
+	name : "Tanu"
 }
 
 function getKeys(obj){
