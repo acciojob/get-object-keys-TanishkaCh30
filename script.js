@@ -9,4 +9,4 @@ function getKeys(obj){
 	return Object.keys(obj);
 }
 
-let keys = getKeys(myObj);
+let keys = getKeys(student);
